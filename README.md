@@ -1,4 +1,4 @@
-# forensic-agent
+# CFA-bench
 
 
 ## Installation
